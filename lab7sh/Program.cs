@@ -49,7 +49,7 @@ namespace lab7sh
                             bufword += line[i];             
                         }
                         else {
-                            Console.WriteLine(bufword);
+                            
                             if (bufword == lWord) duplicates += 1;
                             bufword = "";
                             k = 0;
