@@ -42,12 +42,14 @@ namespace lab7sh
                             k = 0;
                         }
                     }
+                    bufword = "";
                     for (int i = 0; i < line.Length; i++)
                     {
                         if (line[i] != ' ' || i == line.Length) {
                             bufword += line[i];             
                         }
                         else {
+                            Console.WriteLine(bufword);
                             if (bufword == lWord) duplicates += 1;
                             bufword = "";
                             k = 0;
