@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\bin\Debug\lab7sh.exe
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\bin\Debug\lab7sh.pdb
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\obj\Debug\lab7sh.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\obj\Debug\lab7sh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\obj\Debug\lab7sh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\obj\Debug\lab7sh.exe
+C:\Users\Admin\RiderProjects\lab7sh\lab7sh\obj\Debug\lab7sh.pdb
